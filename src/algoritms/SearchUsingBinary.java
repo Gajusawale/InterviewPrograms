@@ -47,7 +47,7 @@ public class SearchUsingBinary {
 
             if(nums[mid]==target) {
 
-                System.out.println(steps);
+                System.out.println();
                 return mid;
             }
 
